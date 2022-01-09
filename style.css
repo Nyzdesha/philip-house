@@ -161,7 +161,7 @@ p {
 /*-----ПЕРВЫЙ БЛОК----------*/
 .page__philip-house {
 	display: flex;
-	min-height: 585px;
+	min-height: 560px;
 }
 .image-container img {
 	position: absolute;
